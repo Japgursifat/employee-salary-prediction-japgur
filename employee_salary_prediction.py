@@ -237,5 +237,4 @@ print("✅ Saved best model as best_model.pkl")
 # 
 #
 
-!streamlit run app.py
 
